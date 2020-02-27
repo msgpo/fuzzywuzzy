@@ -1,5 +1,7 @@
 h1. FuzzyWuzzy
 
+_This is the last version of FuzzyWuzzy that is available under MIT License since the next commit introduced python-Levenshtein which is GPL licensed_
+
 Fuzzy string matching like a boss.
 
 h2. Requirements
